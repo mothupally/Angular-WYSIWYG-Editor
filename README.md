@@ -1,6 +1,8 @@
 # Angular-WYSIWYG-Editor
 A simple Angular editor that allows to set max allowed characters.
-Usage:
+
+
+## Usage:
 ````html
 <editor content="content" maxchar="1000"></editor>
 ````
